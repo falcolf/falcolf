@@ -1,4 +1,4 @@
-![bla]( https://media.giphy.com/media/YIqoBdxv7Qnks/giphy.gif)
+![bla](https://media.giphy.com/media/11e56tPCqD9kjK/giphy.gif)
 
 ### Hi there 👋
 
