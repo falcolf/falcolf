@@ -1,6 +1,6 @@
 ![bla](https://media.giphy.com/media/11e56tPCqD9kjK/giphy.gif)
 
-### Hi there 👋
+### Hi!
 
 <!--
 **falcolf/falcolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
