@@ -1,5 +1,9 @@
 ![bla](https://media.giphy.com/media/11e56tPCqD9kjK/giphy.gif)
 
+[![](https://img.shields.io/badge/website-parthagarwal.ml-blue)](http://www.parthagarwal.ml)
+[![](https://img.shields.io/badge/gmail-ag.parth11@gmail.com-blue)](mailto:ag.parth11@gmail.com)
+[![Linkedin: parth](https://img.shields.io/badge/-parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-11/)](https://www.linkedin.com/in/parth-11/)
+![GitHub followers](https://img.shields.io/github/followers/falcolf?label=Follow&style=social)
 ### Hi!
 
 <!--
