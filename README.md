@@ -6,10 +6,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/falcolf?label=Follow&style=social)
 ### Hi!
 I am a python developer and I like to develop intelligent tools that makes someone's life easier.  
-I have a huge passion for numbers, graphs and how data shapes our daily lives!  
+I have a huge passion for numbers and how data shapes our daily lives!  
+Constantly questioning the data and love to develop a story out of it!
   
 > "Human is a breif algorithm. Once you know them, their behaviour is quite predictable."  
 > <sub>-- <cite>Westworld</cite></sub>
+
+![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=falcolf&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
 
 <!--
 **falcolf/falcolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
