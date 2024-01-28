@@ -5,7 +5,7 @@
 [![Linkedin: parth](https://img.shields.io/badge/-parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-11/)](https://www.linkedin.com/in/parth-11/)
 
 ### Hi!
-I am a python developer and I like to develop intelligent tools that makes someone's life easier.  
+I am a python developer and I like to develop intelligent tools that makes peoples' life easier.  
 I have a huge passion for numbers and how data shapes our daily lives!  
 Constantly questioning the data and love to develop a story out of it!
   
